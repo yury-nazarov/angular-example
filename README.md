@@ -1,8 +1,10 @@
-
 # Guide
 
 - https://www.youtube.com/watch?v=yCIti018Srw
 - https://v14.angular.io/guide/setup-local
+
+
+![](docs/howto_01.png)
 
 # Install
 
@@ -124,3 +126,5 @@ git clone git@github.com:yury-nazarov/angular-example.git
 cd angular-example
 yarn install
 ```
+
+
