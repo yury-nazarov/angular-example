@@ -4,9 +4,9 @@
 - https://v14.angular.io/guide/setup-local
 
 
-![](docs/howto_01.png)
+![](docs/dev-01/howto_01.png)
 
-# Install
+## Install
 
 Устанавливаем локально
 
@@ -87,7 +87,7 @@ ng new angular-crash-course
 [ https://sass-lang.com/documentation/syntax#scss                ]
 ```
 
-# Стили
+### Стили
 
 https://v3.tailwindcss.com/docs/installation
 
@@ -107,7 +107,7 @@ tsconfig.json
   }  
 }
 ```
-# Запускаем
+### Запускаем
 
 ```
 yarn start
@@ -119,7 +119,7 @@ sudo lsof -iTCP -sTCP:LISTEN -n -P | grep node
 kill -9 pid
 ```
 
-# Запуск из репозитория
+### Запуск из репозитория
 
 ```shell
 git clone git@github.com:yury-nazarov/angular-example.git
@@ -128,3 +128,6 @@ yarn install
 ```
 
 
+## Компоненты
+
+![](docs/dev-02/dev-02.png)
